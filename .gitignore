@@ -1,0 +1,8 @@
+# добавили файл "program.py"
+git add program.py
+
+# добавили все файлы
+git add --all
+
+# добавили все файлы
+git add . 
